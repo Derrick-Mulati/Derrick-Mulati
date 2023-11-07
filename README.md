@@ -1,7 +1,7 @@
 # Hi, I’m Derrick Mulati
 
   Welcome to My Github
-  :star: This is a star icon
+  💻: 
 
 
 
