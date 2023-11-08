@@ -5,7 +5,7 @@
 
 
 
-  I find fun creating code. I have over 1 million lines of code which makes me extremely happy
+  I find fun creating code. I have over 1 million lines of code which makes me extremely happy :happy:
 
 :earth_africa: I'm based in Nairobi, Kenya.
 ### Connect with me:
