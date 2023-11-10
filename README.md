@@ -7,7 +7,6 @@
 
   I find fun creating code & providing creative solutions. I have over 1 million lines of code which makes me extremely happy 😄
 
-#Coding 
 
 ### Connect with me:
 
