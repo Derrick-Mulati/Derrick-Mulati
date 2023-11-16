@@ -93,7 +93,7 @@
 
   <a href="https://www.flutter.dev" target="_blank" rel="noreferrer">
     <img
-      src="https://static.wikia.nocookie.net/logo-timeline/images/c/cf/4B4A9751-D2BF-4A93-BDCC-CDCA5326B65F.png"
+      src="https://static.wikia.nocookie.net/logo-timeline/images/c/cf/4B4A9751-D2BF-4A93-BDCC-CDCA5326B65F.png](https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"
       alt="flutter"
       width="40"
       height="40"
