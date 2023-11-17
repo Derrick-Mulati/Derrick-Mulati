@@ -89,7 +89,7 @@
 
   <a href="https://www.flutter.dev" target="_blank" rel="noreferrer">
     <img
-      src="https://en.wikipedia.org/wiki/File:Dart-logo.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"
       alt="flutter"
       width="40"
       height="40"
