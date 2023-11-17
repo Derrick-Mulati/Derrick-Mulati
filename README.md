@@ -4,7 +4,7 @@
 
 
 
-  I find fun creating code & providing creative solutions. I have over 1 million lines of code and working towards more which makes me extremely happy 😄
+  I find fun creating, debugging code & providing creative solutions. I have over 1 million lines of code and working towards more which makes me extremely happy 😄
 
 ### Connect with me:
 
