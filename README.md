@@ -10,7 +10,7 @@
 
 <br>
 
-  I find fun creating, debugging code & providing creative solutions for the world. I have over 1 million lines of code and working towards more which makes me extremely happy happy 😄
+I derive immense joy from the artistry of crafting, fine-tuning code, and conjuring inventive solutions for the world. My digital portfolio boasts over a million lines of code, and the prospect of adding even more to this intricate tapestry fills me with boundless happiness! 😄
 
 ### Connect With Me:
 
