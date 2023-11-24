@@ -6,7 +6,7 @@
 
 
 
- Portfolio >>> https://derrick-mulati.github.io/portifolio/
+ Portfolio >>> https://derrick-mulati.github.io/portifolio/ <<<
 
 <br>
 
