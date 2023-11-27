@@ -10,7 +10,7 @@
 
 <br>
 
-I derive immense joy from the artistry of crafting, fine-tuning code, and conjuring inventive solutions for the world. My digital portfolio boasts over a million lines of code, and the prospect of adding even more to this intricate tapestry fills me with boundless happiness!.😄
+I derive immense joy from the artistry of crafting, fine-tuning code, and conjuring inventive solutions for the world. My digital portfolio boasts over a million lines of code, and the prospect of adding even more to this intricate tapestry fills me with boundless happiness!😄
 
 ### Connect With Me:
 
