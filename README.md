@@ -1,6 +1,6 @@
 # Hi, I’m Derrick Mulati
 
-  Welcome to My Github Page 👨🏾‍💻 🌍
+  Welcome to My Github  👨🏾‍💻 
   <br>
   <br>
 
