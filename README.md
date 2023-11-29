@@ -1,4 +1,4 @@
-# Hi, I’m Derrick Mulati
+ Hi, I’m Derrick Mulati
 
   Welcome to My Github  👨🏾‍💻 
   <br>
@@ -6,7 +6,7 @@
 
 
 
- Link to my Portfolio: https ://derrick-mulati.github.io/portifolio/ 
+ Link to my Portfolio: https://derrick-mulati.github.io/portifolio/ 
 
 <br>
 
