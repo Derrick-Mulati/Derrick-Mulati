@@ -73,6 +73,7 @@ I derive immense joy from the artistry of crafting, fine-tuning code, and conjur
       height="40"
     />
   </a>
+  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -110,6 +111,7 @@ I derive immense joy from the artistry of crafting, fine-tuning code, and conjur
       height="40"
     />
   </a>
+  
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -118,6 +120,7 @@ I derive immense joy from the artistry of crafting, fine-tuning code, and conjur
       height="40"
     />
   </a>
+  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -170,6 +173,7 @@ I derive immense joy from the artistry of crafting, fine-tuning code, and conjur
       height="40"
     />
   </a>
+  
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png"
