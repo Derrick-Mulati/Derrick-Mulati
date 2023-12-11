@@ -104,9 +104,8 @@ I derive immense joy from the artistry of crafting, fine-tuning code, and conjur
     />
   </a>
 
-  
 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="figma"
