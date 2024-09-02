@@ -187,13 +187,4 @@ I derive immense joy from the artistry of crafting, fine-tuning code, and conjur
   </a>
 
 
-  
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.pn\g"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
 </p>
