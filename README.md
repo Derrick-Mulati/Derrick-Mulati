@@ -5,10 +5,6 @@ Crafting digital solutions with over *1,000,000 lines of code* and counting! �
 
 ---
 
-## 🎨 Featured Portfolio
-👉 **[Explore My Work](https://derrick-mulati.github.io/portifolio/)** 👈
-
----
 
 ## 🌟 Code Philosophy
 _"Programming is the closest thing we have to magic. I thrive on transforming coffee into code and ideas into impactful digital experiences."_
