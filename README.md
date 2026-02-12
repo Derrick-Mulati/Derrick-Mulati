@@ -12,8 +12,6 @@ _"Data is the raw material; intelligence is the architecture. I bridge the gap b
 
 ## 🤝 Let's Connect
 [![LinkedIn Professional](https://img.shields.io/badge/LinkedIn-Professional_Network-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/derrick-mulati-28b054220/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-green?style=for-the-badge)](https://derrick-mulati.github.io/portifolio/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow?style=for-the-badge)](https://huggingface.co/)
 
 ---
 
